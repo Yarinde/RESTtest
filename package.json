@@ -1,0 +1,19 @@
+{
+  "name": "resttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "/\\.js$/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yarinde/RESTtest.git"
+  },
+  "author": "yarindekel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yarinde/RESTtest/issues"
+  },
+  "homepage": "https://github.com/Yarinde/RESTtest#readme"
+}
